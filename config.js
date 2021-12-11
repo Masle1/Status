@@ -17,6 +17,8 @@ window.Config = {
   // 支持 Monitor-Specific 和 Read-Only 两只 Api Key
   ApiKeys: [
     'm790007423-ef36b0d901a901925ce518ce',
+    'm790027514-6f6771a4b0e0b07b8ed441da',
+    'm790027515-be08bbe1e10cdcd53b9092b3',
     'm790009176-25174448bea033c9cd5ad491',
   ],
 
@@ -36,7 +38,7 @@ window.Config = {
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/masle1/uptime-status'
+      url: 'https://github.com/masle1'
     }
   ]
 };
